@@ -1,2 +1,2 @@
 # projeto-nivel-agua
-Controle de nível de água utilizando NODEMCU8266 e sensor ultrassónico... 
+Projeto de Monitoramento de Nível de Água usando ESP8266. 
